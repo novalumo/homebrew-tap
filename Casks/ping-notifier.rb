@@ -1,8 +1,8 @@
 cask "ping-notifier" do
-  version "0.4.0"
-  sha256 "49c303afb5ffa03991978bdbd04184e488d2d5c131a1123d2d77ca0e32b65180"
+  version "0.5.0"
+  sha256 "23ee53e3b16bec8c4ee39297ebbd20652c773783a06a3499210dbf413b58095c"
 
-  url "https://github.com/siraken/ping-notifier/releases/download/v#{version}/PingNotifier-#{version}-macos-universal.zip"
+  url "https://github.com/siraken/ping-notifier/releases/download/v#{version}/PingNotifier-#{version}-macos-arm64.zip"
   name "Ping Notifier"
   desc "Menu bar app that notifies you of ping timeouts"
   homepage "https://github.com/siraken/ping-notifier"
