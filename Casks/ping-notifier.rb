@@ -1,6 +1,6 @@
 cask "ping-notifier" do
-  version "0.6.0"
-  sha256 "25f011a0fb5500dac56037dcc7f5eee0558731883a772eefdda3c6721ee35237"
+  version "0.7.0"
+  sha256 "cb0900f286bbb4fa5eb6ebd6b46ebeef80db0a58dc4b3e870e697dd9f0865f93"
 
   url "https://github.com/novalumo/ping-notifier/releases/download/v#{version}/PingNotifier-#{version}-macos-arm64.zip"
   name "Ping Notifier"
